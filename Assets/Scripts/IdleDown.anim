@@ -27,7 +27,7 @@ AnimationClip:
     - time: 0.33333334
       value: {fileID: 1762541233, guid: 11fad986d8157b74fbfb7e601c7fa5fd, type: 3}
     - time: 0.5
-      value: {fileID: 1618371875, guid: 11fad986d8157b74fbfb7e601c7fa5fd, type: 3}
+      value: {fileID: -1283788911, guid: 11fad986d8157b74fbfb7e601c7fa5fd, type: 3}
     - time: 0.6666667
       value: {fileID: 1762541233, guid: 11fad986d8157b74fbfb7e601c7fa5fd, type: 3}
     attribute: m_Sprite
@@ -55,7 +55,7 @@ AnimationClip:
     - {fileID: 1618371875, guid: 11fad986d8157b74fbfb7e601c7fa5fd, type: 3}
     - {fileID: -65890407, guid: 11fad986d8157b74fbfb7e601c7fa5fd, type: 3}
     - {fileID: 1762541233, guid: 11fad986d8157b74fbfb7e601c7fa5fd, type: 3}
-    - {fileID: 1618371875, guid: 11fad986d8157b74fbfb7e601c7fa5fd, type: 3}
+    - {fileID: -1283788911, guid: 11fad986d8157b74fbfb7e601c7fa5fd, type: 3}
     - {fileID: 1762541233, guid: 11fad986d8157b74fbfb7e601c7fa5fd, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
